@@ -2,7 +2,7 @@
 
 Repositório destinado às atividades e projetos desenvolvidos na disciplina de **DevOps** da faculdade.
 
-## 📌 Sobre o repositório
+## 📌 Descrição
 
 Este repositório será utilizado para organizar e armazenar as atividades, exercícios e projetos desenvolvidos durante a disciplina.
 
