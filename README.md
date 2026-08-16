@@ -12,6 +12,8 @@ Aplicar na prática conceitos relacionados à cultura DevOps, automação, integ
 
 ## 🛠️ Tecnologias e ferramentas
 
+Ferramentas e tecnologias a serem decididas em conjunto pelas alunas Larissa Vargas e Camile Medina; Tendo como foco as sugestoes do professor.
+
 As tecnologias e ferramentas utilizadas serão adicionadas conforme o desenvolvimento das atividades da disciplina.
 
 ## 👩‍💻 Autora
